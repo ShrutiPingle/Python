@@ -15,3 +15,6 @@
 
 # name="Shruti"
 # print("my name is",name)
+
+# name=input("ENter your name: ")
+# print("your name is",name)
